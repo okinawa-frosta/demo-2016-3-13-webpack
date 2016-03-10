@@ -4,6 +4,6 @@
 
 - 01 基本最小構成
 - 02 `class` の `require`
-- 03 `bower` でインストールしたモジュール `require`
+- 03 `bower` でインストールしたモジュールを `require`
 - 04 `gulp-webpack` を使う
 - 05 実案件で使いやすいようにカスタマイズ
