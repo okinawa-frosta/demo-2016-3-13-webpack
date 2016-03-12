@@ -1,0 +1,25 @@
+{
+  "name": "demo-2016-3-13-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okinawa-frosta/demo-2016-3-13-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okinawa-frosta/demo-2016-3-13-webpack/issues"
+  },
+  "homepage": "https://github.com/okinawa-frosta/demo-2016-3-13-webpack#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "lodash": "^4.6.1",
+    "through2": "^2.0.1",
+    "webpack": "^1.12.14"
+  }
+}
